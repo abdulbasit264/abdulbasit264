@@ -2,7 +2,7 @@
 
 **Tech lead / senior full-stack engineer** with 12 years of shipping web products. Founder & CTO at GlobalGates Logistics, where I designed, built and run the company's platforms end to end — architecture, data model, AI, security, deployment.
 
-📍 Karachi · open to **remote** and **relocation** (Gulf, UK, Europe) · [LinkedIn](https://www.linkedin.com/in/imabdulbasit)
+📍 Karachi · [LinkedIn](https://www.linkedin.com/in/imabdulbasit)
 
 ---
 
